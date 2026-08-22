@@ -1,0 +1,24 @@
+# Python 3.12 or 3.13 is required: pymomentum publishes no wheels for 3.11 or older.
+#
+#   python3.13 -m venv .venv && .venv/bin/pip install -r requirements.txt
+#
+# Or just run ./setup.sh, which does that and downloads the model assets.
+
+# The MHR body model itself (Meta, Apache-2.0).
+mhr==1.0.1
+
+# Rig loading, skinning and the parameter transform behind MHR. The CPU build is
+# the portable one; swap in pymomentum-gpu on a CUDA machine.
+pymomentum-cpu>=0.1.90
+
+torch>=2.4
+numpy>=1.26
+
+# Mesh export (.ply/.obj) and volume measurements.
+trimesh>=4.8.3
+
+# Used by mhr_kit.render: Matplotlib's Agg backend rasterises the meshes, imageio
+# writes PNG/MP4/GIF, and imageio-ffmpeg supplies the MP4 encoder.
+matplotlib>=3.8
+imageio>=2.34
+imageio-ffmpeg>=0.5
