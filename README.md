@@ -408,6 +408,19 @@ Three habits that pay off: **batch aggressively** (the correctives are a dense `
 
 ---
 
+## Posenet Results
+
+<img width="536" height="481" alt="Screenshot 2026-10-26 at 3 28 31 PM" src="https://github.com/user-attachments/assets/a87e852d-8d5d-4414-9a66-b71e480f5f1d" />
+
+<img width="484" height="529" alt="Screenshot 2026-10-26 at 3 32 04 PM" src="https://github.com/user-attachments/assets/a6b51a86-028c-4468-b8d1-8bc9e5001c4f" />
+
+<img width="536" height="481" alt="Screenshot 2026-10-26 at 3 27 54 PM" src="https://github.com/user-attachments/assets/6359e827-a4f8-4625-a86a-f7654c138561" />
+
+<img width="536" height="481" alt="Screenshot 2026-10-26 at 3 29 21 PM" src="https://github.com/user-attachments/assets/df6ef0f3-6d35-4c56-a477-936397d23ba8" />
+
+<img width="484" height="529" alt="Screenshot 2026-10-26 at 3 31 11 PM" src="https://github.com/user-attachments/assets/d297cd97-1473-4be5-b058-e875d6499d52" />
+
+
 ## Data, licences, citation
 
 **Further datasets** used or worth knowing about: [ASPset-510](https://archive.org/download/aspset510) · [Microsoft DAViD](https://github.com/microsoft/DAViD).
